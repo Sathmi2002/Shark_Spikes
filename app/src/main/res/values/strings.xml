@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crossRoad</string>
+    <string name="score_0">Score : 0</string>
+    <string name="start">start</string>
+    <string name="Start">Start</string>
+    <string name="high_score_0" />
+</resources>
